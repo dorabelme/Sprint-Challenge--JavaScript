@@ -261,5 +261,5 @@ console.log(populationTotal);
 /* 
 
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.
-// Used arrow functions, Prettier reformats it into several lines (formatting is triggered by saving the file).
+// Used arrow functions, Prettier reformats it into several lines (have formatting enabled when file is saved).
 */
