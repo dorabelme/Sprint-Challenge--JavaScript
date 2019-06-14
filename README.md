@@ -38,7 +38,7 @@ Functions and methods are both functions in JavaScript. A method is just a funct
 
 3. What is closure?
 
-A closure gives access to an outer function's scope from an inner function. To use a closure in JavaScript, we have to define a function inside another function and invoke it.
+A closure gives access to an outer function's scope from an inner function. To use a closure in JavaScript, we have to define a function inside another function. Counter function() is a good example where we want to keep track of the previous result.
 
 4. Describe the four rules of the 'this' keyword.
 
